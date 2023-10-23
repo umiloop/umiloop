@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umiloop&label=Profile%20views&color=0e75b6&style=flat" alt="umiloop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umiloop" alt="umiloop" /></a> </p>
+[![An image of @umiloop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umiloop)](https://holopin.io/@umiloop)
 
 - 🌱 I’m currently learning **Tensorflow**
 
