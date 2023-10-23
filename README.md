@@ -30,10 +30,8 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+[![An image of @umiloop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umiloop)](https://holopin.io/@umiloop)
+
+
