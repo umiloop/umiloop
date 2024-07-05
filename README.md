@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umiloop" alt="umiloop" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
-- 💬 Ask me about **Frontend Devalopmemt**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **mohamedumairinfo@gmail.com**
-
-- ⚡ Fun fact **I love Marmite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
