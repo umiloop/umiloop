@@ -1,35 +1,65 @@
-<h1 align="center">🌟 ආයුබෝවන්! 🌟</h1>
-<h2 align="center">Hi there, I'm Mohamed Umair 👋</h2>
-<h3 align="center">🔗 Full Stack Developer | .NET | Angular | Azure Enthusiast 🔗</h3>
+<h1 align="center">
+  <span style="font-size: 3em;">🌺 ආයුබෝවන් | வணக்கம் | Welcome! 🌺</span>
+</h1>
+<h2 align="center">
+  Hi, I'm <strong>Mohamed Umair</strong> 👋
+</h2>
+<h3 align="center">🌟 Full Stack Developer | .NET | Angular | Azure Enthusiast 🌟</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&lines=Welcome+to+my+GitHub+Profile!;💻+Passionate+about+Tech+and+Code!;🌍+From+Sri+Lanka!;✨+Let's+Build+Something+Awesome!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=🌟+Ayubowan+%7C+Vanakkam+%7C+Welcome!;🚀+Passionate+about+Tech+and+Innovation!;🌱+Always+Learning+and+Building!;✨+Sri+Lankan+Tech+Explorer!" alt="Typing Animation">
 </div>
 
+---
+
+<h3 align="center">🎨 Animated Welcome in Sinhala & Tamil 🎨</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlQ6nA4xbVi89fc/giphy.gif" alt="Ayubowan Animation" width="300px">
+  <img src="https://media.giphy.com/media/fUwUQ9D3IfKw7DKEK7/giphy.gif" alt="Vanakkam Animation" width="300px">
+</div>
+
+---
+
+<h3 align="center">👨‍💻 About Me 👨‍💻</h3>
+<ul align="center" style="list-style-type:none;">
+  <li>🔭 I'm an intern at <strong>Virtusa</strong>, diving deep into the world of <strong>.NET, Angular, and Azure</strong>.</li>
+  <li>🚀 Love solving complex problems and creating <strong>scalable web applications</strong>.</li>
+  <li>📚 On a journey to learn modern technologies and innovate solutions for <strong>real-world problems</strong>.</li>
+  <li>📬 <strong>Reach me:</strong> <a href="mailto:mohamedumairinfo@gmail.com">mohamedumairinfo@gmail.com</a></li>
+</ul>
+
+---
+
+<h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umiloop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/umiloop?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-DotNet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
 
-<h3 align="center">🌟 About Me 🌟</h3>
-
-- 👨‍💻 I'm currently an intern at **Virtusa**, exploring the world of **.NET, Angular, and Azure**  
-- 🚀 Passionate about **creating scalable web solutions**  
-- 🌱 Constantly learning and evolving with **modern technologies**  
-- 🛠️ Open to collaborate on **innovative software projects**  
-- 📫 Reach me: **mohamedumairinfo@gmail.com**  
+<h3 align="center">📊 GitHub Analytics 📊</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umiloop&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
-<h3 align="center">🌐 Connect With Me 🌐</h3>
+<h3 align="center">🌐 Let's Connect 🌐</h3>
 <p align="center">
   <a href="https://linkedin.com/in/umair-mohamed" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/umi_irsh" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://holopin.io/@umiloop" target="_blank">
     <img src="https://img.shields.io/badge/-Holopin-black?style=for-the-badge&logo=holopin&logoColor=white">
@@ -38,29 +68,7 @@
 
 ---
 
-<h3 align="center">💻 Technologies & Tools 💻</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
----
-
-<h3 align="center">📈 GitHub Stats 📈</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&locale=en&theme=radical" alt="umiloop">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical" alt="umiloop">
-</p>
-
----
-
 <h3 align="center">🎉 Thank You! 🎉</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&lines=ඔබගේ+සටහන්+මට+ඇතුළත්+කළාට+ඔබට+සංතෝෂයි!;Come+Back+Soon!">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=FFA07A&Hope+You+Have+a+Great+Day!+🌟" alt="Thank You Animation">
+</div>
