@@ -1,65 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mohamed Umair</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<h1 align="center">🌟 ආයුබෝවන්! 🌟</h1>
+<h2 align="center">Hi there, I'm Mohamed Umair 👋</h2>
+<h3 align="center">🔗 Full Stack Developer | .NET | Angular | Azure Enthusiast 🔗</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=umiloop&label=Profile%20views&color=0e75b6&style=flat" alt="umiloop" /> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&lines=Welcome+to+my+GitHub+Profile!;💻+Passionate+about+Tech+and+Code!;🌍+From+Sri+Lanka!;✨+Let's+Build+Something+Awesome!" alt="Typing SVG">
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umiloop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/umiloop?style=social" alt="GitHub Followers">
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umiloop" alt="umiloop" />
-  </a> 
-</p>
+---
 
-- 🌱 I’m currently exploring **Azure DevOps and Cloud Computing**  
-- 👨‍💻 I'm an Intern at **Virtusa**, specializing in **.NET, Angular, and Azure**  
-- 👯 I’m looking to collaborate on **Full-Stack Projects**  
-- 💬 Ask me about **.NET, Angular, and Full-Stack Development**  
-- 📫 How to reach me: **mohamedumairinfo@gmail.com**  
+<h3 align="center">🌟 About Me 🌟</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/umair mohamed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair mohamed" height="30" width="40" />
+- 👨‍💻 I'm currently an intern at **Virtusa**, exploring the world of **.NET, Angular, and Azure**  
+- 🚀 Passionate about **creating scalable web solutions**  
+- 🌱 Constantly learning and evolving with **modern technologies**  
+- 🛠️ Open to collaborate on **innovative software projects**  
+- 📫 Reach me: **mohamedumairinfo@gmail.com**  
+
+---
+
+<h3 align="center">🌐 Connect With Me 🌐</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/umair-mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fb.com/mohamed umair" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed umair" height="30" width="40" />
+  <a href="https://instagram.com/umi_irsh" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://instagram.com/umi_irsh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umi_irsh" height="30" width="40" />
+  <a href="https://holopin.io/@umiloop" target="_blank">
+    <img src="https://img.shields.io/badge/-Holopin-black?style=for-the-badge&logo=holopin&logoColor=white">
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
+---
+
+<h3 align="center">💻 Technologies & Tools 💻</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+---
+
+<h3 align="center">📈 GitHub Stats 📈</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&locale=en&theme=radical" alt="umiloop">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical" alt="umiloop">
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&locale=en" alt="umiloop" />
-</p>
+---
 
-[![An image of @umiloop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umiloop)](https://holopin.io/@umiloop)
+<h3 align="center">🎉 Thank You! 🎉</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&lines=ඔබගේ+සටහන්+මට+ඇතුළත්+කළාට+ඔබට+සංතෝෂයි!;Come+Back+Soon!">
+</p>
