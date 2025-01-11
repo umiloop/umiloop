@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 3em;">🌺 ආයුබෝවන් | வணக்கம் | Welcome! 🌺</span>
+  ආයුබෝවන් | வணக்கம் | Welcome!
 </h1>
 <h2 align="center">
   Hi, I'm <strong>Mohamed Umair</strong> 👋
@@ -14,17 +14,17 @@
 
 <h3 align="center">🎨 Animated Welcome in Sinhala & Tamil 🎨</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlQ6nA4xbVi89fc/giphy.gif" alt="Ayubowan Animation" width="300px">
-  <img src="https://media.giphy.com/media/fUwUQ9D3IfKw7DKEK7/giphy.gif" alt="Vanakkam Animation" width="300px">
+  <img src="https://media.giphy.com/media/l0HlQ6nA4xbVi89fc/giphy.gif" alt="Ayubowan Animation" width="250px">
+  <img src="https://media.giphy.com/media/fUwUQ9D3IfKw7DKEK7/giphy.gif" alt="Vanakkam Animation" width="250px">
 </div>
 
 ---
 
 <h3 align="center">👨‍💻 About Me 👨‍💻</h3>
-<ul align="center" style="list-style-type:none;">
+<ul>
   <li>🔭 I'm an intern at <strong>Virtusa</strong>, diving deep into the world of <strong>.NET, Angular, and Azure</strong>.</li>
-  <li>🚀 Love solving complex problems and creating <strong>scalable web applications</strong>.</li>
-  <li>📚 On a journey to learn modern technologies and innovate solutions for <strong>real-world problems</strong>.</li>
+  <li>🚀 Passionate about solving complex problems and building <strong>scalable web applications</strong>.</li>
+  <li>🌱 Continuously learning and experimenting with <strong>modern technologies</strong> to innovate solutions for real-world challenges.</li>
   <li>📬 <strong>Reach me:</strong> <a href="mailto:mohamedumairinfo@gmail.com">mohamedumairinfo@gmail.com</a></li>
 </ul>
 
@@ -46,9 +46,9 @@
 
 <h3 align="center">📊 GitHub Analytics 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umiloop&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&theme=radical" alt="GitHub Stats" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical" alt="GitHub Streak" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umiloop&layout=compact&theme=radical" alt="Top Languages" width="400px">
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="center">🎉 Thank You! 🎉</h3>
+<h3 align="center"> Thank You! </h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=FFA07A&Hope+You+Have+a+Great+Day!+🌟" alt="Thank You Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=FFA07A&lines=Hope+You+Have+a+Great+Day!+🌟" alt="Thank You Animation">
 </div>
