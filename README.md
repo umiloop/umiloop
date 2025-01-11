@@ -1,135 +1,170 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamed%20Umair&fontSize=80&fontAlign=50&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mohamed%20Umair&fontSize=90&desc=Full%20Stack%20Developer%20|%20Cloud%20Architect&descAlignY=65&descAlign=50&strokeWidth=2&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=ආයුබෝවන්+%7C+வணக்கம்+%7C+Welcome!;Full+Stack+Developer+%7C+Cloud+Architect)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="mailto:mohamedumairinfo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/umair-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/umi_irsh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://holopin.io/@umiloop"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umiloop&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/umiloop?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/umiloop?style=for-the-badge&color=blue" alt="Stars"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=ආයුබෝවන්+%7C+வணக்கம்+%7C+Welcome+to+my+tech+universe!;.NET+%26+Angular+Specialist+%7C+Azure+Cloud+Architect;Building+scalable+solutions+with+passion+and+precision!)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
-
-> *"Crafting elegant solutions to complex problems"*
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
-
-- 🎯 Currently crafting enterprise solutions at **Virtusa**
-- 💡 Specializing in **.NET Core**, **Angular**, and **Azure** cloud architecture
-- 🌱 Building scalable microservices and cloud-native applications
-- 🔭 Exploring **DevOps**, **Kubernetes**, and **Software Architecture**
-- 🌏 Based in Sri Lanka, collaborating globally
-- ⚡ Fun fact: I love exploring new technologies and building side projects
-
-<br>
-
-## 🛠️ Technology Arsenal
-
-<details>
-<summary>Click to expand!</summary>
-
-### 🔵 Primary Stack
-```javascript
-{
-  "languages": ["C#", "TypeScript", "JavaScript"],
-  "backend": [".NET Core", "ASP.NET Web API", "Entity Framework"],
-  "frontend": ["Angular", "RxJS", "Material Design"],
-  "cloud": ["Azure", "Docker", "Kubernetes"],
-  "databases": ["SQL Server", "MongoDB", "Redis"]
-}
-```
-
-### 🎯 Expertise
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</p>
 
 <div align="center">
-
-#### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=umiloop&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub Profile Stats" width="100%"/>
 </div>
+
+<p align="center">
+  <a href="mailto:mohamedumairinfo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/umair-mohamed">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/umi_irsh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://holopin.io/@umiloop">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+## 💫 About Me
+
+```typescript
+const umair = {
+    role: "Full Stack Developer",
+    workingAt: "Virtusa",
+    code: [".NET", "Angular", "TypeScript", "C#"],
+    architecture: ["microservices", "event-driven", "cloud-native"],
+    currentFocus: "Building scalable enterprise solutions",
+    funFact: "I debug with coffee and solve problems with code! ☕️"
+};
+```
+
+<details>
+<summary><h2>🛠️ Tech Arsenal</h2></summary>
+
+<h3 align="center">💻 Tech Stack Mastery 💻</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="65" height="65" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,nodejs,typescript,javascript,azure,docker,kubernetes,github,mongodb,mysql&theme=dark" />
+</div>
+
 </details>
+
+## 🌟 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Enterprise E-Commerce Platform</h3>
+      <div align="center">  
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+        <p><strong>🛍️ Full-Stack E-commerce Solution</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        </p>
+        <p>Microservices-based e-commerce platform with real-time inventory, payment processing, and analytics</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cloud-Native CMS</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+        <p><strong>📱 Headless Content Management</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+        <p>Scalable CMS with multi-tenant architecture, built on Azure with containerized services</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">DevOps Automation Suite</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+        <p><strong>🚀 CI/CD Pipeline Automation</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        </p>
+        <p>Comprehensive DevOps toolkit for automated deployment and monitoring</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI-Powered Analytics Dashboard</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+        <p><strong>📊 Real-time Business Intelligence</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+        <p>Interactive dashboard with ML-powered insights and predictive analytics</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umiloop&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umiloop&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=umiloop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umiloop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umiloop&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umiloop&custom_title=Mohamed%20Umair's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=umiloop&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=umiloop&repo=your-best-repo&theme=radical&hide_border=true)](https://github.com/umiloop/your-best-repo)
-
-</div>
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Skills))
-    Cloud Architecture
-      Azure Solutions
-      Microservices
-      Containerization
-    Full Stack Development
-      .NET Core
-      Angular
-      API Design
-    DevOps
-      CI/CD
-      Docker
-      Kubernetes
-```
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=60&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6294EF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Let's+connect!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
